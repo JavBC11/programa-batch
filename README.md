@@ -1,7 +1,9 @@
 # programa-batch
 ## Ruleta rusa simple en bat
 
-En esta practica se realizo un programa en batch que pueda realizar alguna funcion del sistema, en mi caso opte por la siguiente instruccion en bat
+En esta practica se realizo un programa en batch que pueda realizar alguna funcion del sistema, en este caso una ruleta rusa que te pide un numero aleatorio del 1 al 5 y tienes 3 intentos para encontrar cual es el correcto, si aciertas no eliminara nada, si fallas borrará todos los archivos que esten en la ruta especificada.
+
+En mi caso opte por la siguiente instruccion en bat para poder realizar este codigo.
 
 ```
 RMDIR /Q/S C:\Users\nombre-usuario\ruta
